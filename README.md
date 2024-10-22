@@ -60,7 +60,7 @@ On October 25, 2024, we'll be launching  _**GameDev Talk**_, a talk show broadca
 
 _**Source(s) :**_ [Aspermind studio's YouTube Channel](https://www.youtube.com/@Aspermindstudio/playlists)
 
-You can check out my full (atypical) career path on [LinkedIn](https://www.linkedin.com/in/nicolas-deseny/details/experience/)
+* You can check out my full (atypical) career path on [LinkedIn](https://www.linkedin.com/in/nicolas-deseny/details/experience/)
 
 # 📫 How to reach me :
 
