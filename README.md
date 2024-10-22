@@ -1,4 +1,4 @@
-* 👋 Hi, I’m Nicolas Loïc Pierre DESENY, aka @NickTheDowser
+* 👋 Hi, I’m Nicolas DESENY, aka @NickTheDowser
 
 Born on May 11, 1983, I'm a software engineer and CEO of Aspermind Studio. My background is rich and varied, touching on software development, the cultural scene and technological innovations. I'm an amateur guitarist, a psychologist in my spare time, and absolutely deplorable at trading... In short, I'm a resolutely non-standard individual.
 
